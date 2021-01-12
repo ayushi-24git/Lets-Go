@@ -1,6 +1,5 @@
 # Lets-Go
-
-This repo contains answers to the seven question assignment on Golang. Questions are in exercisesgolang.pdf.
+Questions are in exercisesgolang.pdf.
 Q1 - helloworld.go
 Q2 - check.go
 Q3 - sum.go
